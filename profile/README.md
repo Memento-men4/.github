@@ -1,7 +1,7 @@
 # 🧠 Memento 
 > **MEMENTO, a techncal solution for Youngzheimer(Young+Alzheimer)**
 
-## 🔥 AI Speaker, LG Appliance control, with Memento
+** 🔥 AI Speaker, LG Appliance control, with Memento**
 ---
 ![MementoFrontEnd](https://user-images.githubusercontent.com/90544907/207585031-40de1c69-15d1-4ab8-bed3-59adb9ae3ff2.png)
 
@@ -10,9 +10,13 @@ Dementia is a trend that the number of patients is steadily increasing not only 
 
 It is "young onset of dementia," so-called "young dementia," which resulted in the new word "youngzheimer," a combination of young, which means youth, and the most representative type of dementia, Alzheimer. The pace of progression of young dementia is much faster and more dangerous than that of older people aged 65 or older, but there are very few ways to solve or prevent it. The Korean government supports the cost of screening for dementia, but this is only for the elderly over the age of 60, and the dementia prevention and helper applications on the market are aimed at the elderly and are even criticized for frequent errors and insufficient optimization. Even though Alzheimer's dementia is included in the top 10 causes of death for Koreans, there is no clear application to prevent and help it.
 
-Therefore, brain activities that require creativity, such as reading and writing, are the most effective in preventing dementia, so we developed a "MEMENTO" application to make a difference from the application on the market, and we will allow users to take a quiz and look back on the day naturally.
+The word dementia is very familiar to people, but people don't know much about it. Maybe people's fear of disease is so great that people don't really want to know. However, dementia is a very dangerous disease, and if you get dementia, not only you but also everyone around you, including your family and friends, will have a hard time.
 
-In addition, our final goal is to create good habits that help prevent dementia early on, lower the incidence of dementia in the future and contribute to public health.
+We wanted to create an application that can prevent dementia regardless of location or time for busy modern people. What if there is an application that organizes your daily schedule, or people I met, activities I did, and feelings I felt? And what if there's an application that utilizes these data and create a quiz for you?
+
+Our team came up with and application 'MEMENTO', using the information based on user's daily activities. 'MEMENTO' allows users to use the recording function to record their daily lives and perform quizzes whenever and wherever they want. The data that user recorded are saved as a timeline through the STT engine along with time information and location information, so that users can look back on their daily activities and further contribute to the prevention of dementia. The final goal or project 'MEMENTO' is to create good habits that help prevent dementia on an early stage, and lower the incidence of dementia in the future and contribute to public health. Based on this, let's take a look at the detailed functions of 'MEMENTO".
+
+
 
 ## 🔥 Demo Video
 https://www.youtube.com/watch?v=3gTepVrgRB0
