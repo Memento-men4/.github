@@ -15,7 +15,7 @@ The word dementia is very familiar to people, but people don't know much about i
 
 We wanted to create an application that can prevent dementia regardless of location or time for busy modern people. What if there is an application that organizes your daily schedule, or people I met, activities I did, and feelings I felt? And what if there's an application that utilizes these data and create a quiz for you?
 
-Our team came up with and application 'MEMENTO', using the information based on user's daily activities. 'MEMENTO' allows users to use the recording function to record their daily lives and perform quizzes whenever and wherever they want. The data that user recorded are saved as a timeline through the STT engine along with time information and location information, so that users can look back on their daily activities and further contribute to the prevention of dementia. The final goal or project 'MEMENTO' is to create good habits that help prevent dementia on an early stage, and lower the incidence of dementia in the future and contribute to public health. Based on this, let's take a look at the detailed functions of 'MEMENTO".
+Our team came up with and application 'MEMENTO', using the information based on user's daily activities. 'MEMENTO' allows users to use the recording function to record their daily lives and perform quizzes whenever and wherever they want. The data that user recorded are saved as a timeline through the STT engine along with time information and location information, so that users can look back on their daily activities and further contribute to the prevention of dementia. The final goal or project 'MEMENTO' is to create good habits that help prevent dementia on an early stage, and lower the incidence of dementia in the future and contribute to public health. Based on this, let's take a look at the detailed functions of 'MEMENTO'.
 
 
 
@@ -62,3 +62,7 @@ correct answer. (Ex: Addition problem, Subtraction problem, Subtracting 7 from 1
 |Lee Ha Nuel|Dept. of Information systems|ezzezzz@naver.com|
 |Jeong Se Hee|Dept. of Information systems|sjsk04230000@hanyang.ac.kr|
 |Cho Jun Sang|Dept. of Information systems|cjsjustin99@naver.com|
+
+## 🔗 Links
+#### YouTube: https://www.youtube.com/watch?v=3gTepVrgRB0 (새롭게 수정 필요)
+#### Notion: https://www.notion.so/MeMento-83b77499ff8c49eca6740e7e6d039e13
