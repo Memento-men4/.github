@@ -1,6 +1,6 @@
-# Memento 
+# 🧠 Memento 
 **MEMENTO, a techncal solution for Youngzheimer(Young+Alzheimer)**
-
+<br>
 **AI Speaker, LG Appliance control, with Memento**
 ---
 ![MementoFrontEnd](https://user-images.githubusercontent.com/90544907/207585031-40de1c69-15d1-4ab8-bed3-59adb9ae3ff2.png)
@@ -49,3 +49,11 @@ correct answer. (Ex: Addition problem, Subtraction problem, Subtracting 7 from 1
 - **Dementia Self-Diagnosis questions**- This function provides a subjective memory complaints questionnaire (SMCQ) presented by the Central Dementia Center, an institution under the National Medical Center of Republic of Korea. The subjective memory loss questionnaire is a question to find out subjective memory and mood, and consists of questions about memory disorders that you usually experience subjectively.
 - **Useful informations about dementia**
 - This function provides information on the risk of dementia, the status of dementia, and prevention methods for dementia.
+
+## 🥰 Contributor
+|Name|Dept|E-mail| 
+|:---:|:---:|:---:| 
+|Lee Suk Cheol|Dept. of Information systems|tjrcjf9@hanyang.ac.kr| 
+|Lee Ha Nuel|Dept. of Information systems|ezzezzz@naver.com|
+|Jeong Se Hee|Dept. of Information systems|sjsk04230000@hanyang.ac.kr|
+|Cho Jun Sang|Dept. of Information systems|cjsjustin99@naver.com|
