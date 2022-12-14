@@ -2,6 +2,7 @@
 **Quiz-based 영츠하이머 (Young+Alzheimer) 예방 비서**
 **인공지능 스피커, LG가전 제어, with Memento**
 ---
+![MementoFrontEnd](https://user-images.githubusercontent.com/90544907/207585031-40de1c69-15d1-4ab8-bed3-59adb9ae3ff2.png)
 
 ## 소개
 젊음을 의미하는 ‘young’과 알츠하이머의 ‘Alzheimer’를 합친 ‘Youngzheimer(영츠하이머)를 겪는 사람들이 급증함에 따라,
