@@ -6,42 +6,46 @@
 ![MementoFrontEnd](https://user-images.githubusercontent.com/90544907/207585031-40de1c69-15d1-4ab8-bed3-59adb9ae3ff2.png)
 
 ## Introduction
-젊음을 의미하는 ‘young’과 알츠하이머의 ‘Alzheimer’를 합친 ‘Youngzheimer(영츠하이머)를 겪는 사람들이 급증함에 따라,
-사용자 일상에 기반한 데이터로 치매를 예방할 수 있는 다양한 기능을 제공하는 
-영츠하이머 예방 user-friendly 어플리케이션 **👣 MeMento**입니다.
+Dementia is a trend that the number of patients is steadily increasing not only in Korea but also around the world, and the severity is also increasing. According to the World Health Organization (WHO), the global dementia population is estimated to be about 50 million as of 2020, and 152 million by 2050, more than three of them. Dementia does not have a proper treatment method yet, and doing various activities to lead a healthy life is known as the only way to prevent dementia. Dementia is known to be a disease that mainly affects the elderly over the age of 65, but recently, dementia patients are increasing in their 30s and 40s, which are relatively young.
 
-## Demo 영상
+It is "young onset of dementia," so-called "young dementia," which resulted in the new word "youngzheimer," a combination of young, which means youth, and the most representative type of dementia, Alzheimer. The pace of progression of young dementia is much faster and more dangerous than that of older people aged 65 or older, but there are very few ways to solve or prevent it. The Korean government supports the cost of screening for dementia, but this is only for the elderly over the age of 60, and the dementia prevention and helper applications on the market are aimed at the elderly and are even criticized for frequent errors and insufficient optimization. Even though Alzheimer's dementia is included in the top 10 causes of death for Koreans, there is no clear application to prevent and help it.
+
+Therefore, brain activities that require creativity, such as reading and writing, are the most effective in preventing dementia, so we developed a "MEMENTO" application to make a difference from the application on the market, and we will allow users to take a quiz and look back on the day naturally.
+
+In addition, our final goal is to create good habits that help prevent dementia early on, lower the incidence of dementia in the future and contribute to public health.
+
+## Demo Video
 https://www.youtube.com/watch?v=3gTepVrgRB0
 
-## 핵심 기능
+## Main Functions
 ### **#REAL-TIME RECORDING**
-**whenever, wherever 길을 걸으며 녹음 가능**
-녹음 버튼 누르는 즉시, 현 위치와 시간이 함께 기록됩니다.
-사용자 녹음 예시 ) 우와 오늘 날씨 엄청 좋네. 지금 석철이 만나러 가는 중.
+**whenever, wherever recording**
+As soon as a user touches the recording button, it will save time and user's location.
+Recording example)우와 오늘 날씨 엄청 좋네. 지금 석철이 만나러 가는 중.
 
 ### **#DAILY QUIZ**
-**녹음 데이터 기반으로 daily 퀴즈**
-- **날짜** 기반 질문: 밥을 먹었다 지나가다가 세희를 만났다를 어떤 날짜에 말했나요?
-- **시간** 기반 질문: 밥을 먹었다 지나가다가 세희를 만났다를 말한 시간은 몇 시인가요?
-- **위치** 기반 질문: 밥을 먹었다 지나가다가 세희를 만났다를 말한 장소는 어디인가요?
-- **행동** 기반 질문: 2022년 10월 21일 10시 22분에 김부삼에서 무엇을 했나요?
-- **인물** 기반 질문: 2022년 10월 21일 10시 22분에 김부삼에서 누구와 함께 행동했나요?
-- **대화** 기반 질문: 2022년 10월 21일 10시 22분에 김부삼에서 한 말은 무엇인가요?
+**Daily Quiz based on the information from user's recordings**
+- **Date** based question: 밥을 먹었다 지나가다가 세희를 만났다를 어떤 날짜에 말했나요?
+- **Time** based question: 밥을 먹었다 지나가다가 세희를 만났다를 말한 시간은 몇 시인가요?
+- **Location** based question: 밥을 먹었다 지나가다가 세희를 만났다를 말한 장소는 어디인가요?
+- **Action** based question: 2022년 10월 21일 10시 22분에 김부삼에서 무엇을 했나요?
+- **Person** based question: 2022년 10월 21일 10시 22분에 김부삼에서 누구와 함께 행동했나요?
+- **Conversation** based question: 2022년 10월 21일 10시 22분에 김부삼에서 한 말은 무엇인가요?
 
 ### **#LG CONTROL**
-**LG가전을 제어해야 하는 시간을 타임라인에 설정 가능**
-1. LG가전을 시리얼 넘버를 통해 초기 등록한 후 제어해야 하는 시간을 설정 
-2. 해당 시간 Daily 타임라인에 **회색**으로 표시됨
-3. LG가전 작동 완료 시 타임라인에 **검정색**으로 표시됨
+**User can set when to operate LG appliance on their timeline**
+1. Initial registration by entering a serial number, and set the time of operation 
+2. The appliance will be displayed **Gray** during that timeline
+3. It will be displayed **Black** after the opeation
 
 ### **#GAME**
-**STT 기반 어플리케이션 내 치매예방 게임 제공**
-- 집중력 향상 게임: (**빨강, 노랑, 파랑)** 올바르게 읽기
-- 기억력 향상 게임: 단어를 사용자에게 보여주고 해당하는 단어와 관련된 종류를 고르는 게임
-    (Ex: 바나나 → 과일, 동물, 식물)
-- 계산 능력 향상 게임: 간단한 사칙연산 문제 (덧셈 뺄셈 암산, 100에서 7빼기 등)
+**Provide STT based dementia prevention game**
+- Concentration game: This game will improve users concentration. A user will be given a question which a word meaning random color is printed, but the word is painted in a different color than the color the word refers to. The user must shout the color on which the actual letter is painted to be recognized as the correct answer.(**Red, Yellow, Blue)** 
+- Memory game: : This game will improve users memory. A user has to choose a correct category after looking at a word. (Ex: Banana -> Fruit, Animal, Plants)
+- Calculation game: This game will improve users calculation ability. A User have to solve simple four point arithmetic problems in mind, and must choose the
+correct answer. (Ex: Addition problem, Subtraction problem, Subtracting 7 from 100 continuously)
 
 ### **#OTHERS**
-- **영츠하이머 자가 진단**
-- **영츠하이머 관련 정보**
-
+- **Dementia Self-Diagnosis questions**- This function provides a subjective memory complaints questionnaire (SMCQ) presented by the Central Dementia Center, an institution under the National Medical Center of Republic of Korea. The subjective memory loss questionnaire is a question to find out subjective memory and mood, and consists of questions about memory disorders that you usually experience subjectively.
+- **Useful informations about dementia**
+- This function provides information on the risk of dementia, the status of dementia, and prevention methods for dementia.
