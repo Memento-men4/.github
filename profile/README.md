@@ -5,11 +5,12 @@
 ---
 ![MementoFrontEnd](https://user-images.githubusercontent.com/90544907/207585031-40de1c69-15d1-4ab8-bed3-59adb9ae3ff2.png)
 
-## 🔥 Introduction
+## 🔥 Abstract
 Dementia is a trend that the number of patients is steadily increasing not only in Korea but also around the world, and the severity is also increasing. According to the World Health Organization (WHO), the global dementia population is estimated to be about 50 million as of 2020, and 152 million by 2050, more than three of them. Dementia does not have a proper treatment method yet, and doing various activities to lead a healthy life is known as the only way to prevent dementia. Dementia is known to be a disease that mainly affects the elderly over the age of 65, but recently, dementia patients are increasing in their 30s and 40s, which are relatively young.
 
 It is "young onset of dementia," so-called "young dementia," which resulted in the new word "youngzheimer," a combination of young, which means youth, and the most representative type of dementia, Alzheimer. The pace of progression of young dementia is much faster and more dangerous than that of older people aged 65 or older, but there are very few ways to solve or prevent it. The Korean government supports the cost of screening for dementia, but this is only for the elderly over the age of 60, and the dementia prevention and helper applications on the market are aimed at the elderly and are even criticized for frequent errors and insufficient optimization. Even though Alzheimer's dementia is included in the top 10 causes of death for Koreans, there is no clear application to prevent and help it.
 
+## 🔥 Proposal
 The word dementia is very familiar to people, but people don't know much about it. Maybe people's fear of disease is so great that people don't really want to know. However, dementia is a very dangerous disease, and if you get dementia, not only you but also everyone around you, including your family and friends, will have a hard time.
 
 We wanted to create an application that can prevent dementia regardless of location or time for busy modern people. What if there is an application that organizes your daily schedule, or people I met, activities I did, and feelings I felt? And what if there's an application that utilizes these data and create a quiz for you?
