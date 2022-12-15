@@ -61,5 +61,5 @@ correct answer. (Ex: Addition problem, Subtraction problem, Subtracting 7 from 1
 |Cho Jun Sang|Dept. of Information systems|cjsjustin99@naver.com|
 
 ## 🔗 Links
-#### YouTube: https://www.youtube.com/watch?v=3gTepVrgRB0 (새롭게 수정 필요)
+#### YouTube: https://www.youtube.com/watch?v=7lxRL_99KnQ
 #### Notion: https://www.notion.so/MeMento-83b77499ff8c49eca6740e7e6d039e13
