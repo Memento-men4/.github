@@ -64,3 +64,7 @@ correct answer. (Ex: Addition problem, Subtraction problem, Subtracting 7 from 1
 ## 🔗 Links
 #### YouTube: https://www.youtube.com/watch?v=7lxRL_99KnQ
 #### Notion: https://www.notion.so/MeMento-83b77499ff8c49eca6740e7e6d039e13
+
+## 🔥 Awards
+- SKT-Hanyang Univ (1st)
+- LG-Hanyang Univ (2nd)
